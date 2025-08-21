@@ -1,0 +1,53 @@
+{
+  "meta": { "version": 1, "generated": "2025-08-20" },
+  "regions": [
+    { "key": "north", "name": "North Indian" },
+    { "key": "south", "name": "South Indian" },
+    { "key": "east", "name": "East Indian" },
+    { "key": "west", "name": "West Indian" },
+    { "key": "central", "name": "Central Indian" },
+    { "key": "northeast", "name": "North East" },
+    { "key": "pan", "name": "Pan-India" }
+  ],
+  "dishes_by_region": {
+    "north": [
+      "butter-chicken",
+      "chole-bhature",
+      "rogan-josh",
+      "rajma-chawal",
+      "nihari",
+      "aloo-paratha",
+      "laal-maas"
+    ],
+    "south": [
+      "masala-dosa",
+      "idli-sambar",
+      "hyderabadi-biryani",
+      "kerala-fish-curry",
+      "appam-stew",
+      "chettinad-chicken",
+      "pongal",
+      "prawns-ghee-roast",
+      "ragi-ball"
+    ],
+    "east": [
+      "litti-chokha",
+      "macher-jhol",
+      "pakhala-bhata",
+      "assamese-fish-curry"
+    ],
+    "west": [
+      "pav-bhaji",
+      "vada-pav",
+      "misal-pav",
+      "dhokla",
+      "thepla",
+      "goan-fish-curry",
+      "dal-baati-churma",
+      "poha"
+    ],
+    "central": ["bhutte-ka-kees"],
+    "northeast": ["bamboo-shoot-curry", "smoked-pork-bamboo-shoot"],
+    "pan": ["chicken-biryani", "indian-thali"]
+  }
+}

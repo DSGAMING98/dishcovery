@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>{{ heading }}</h1>
+
+{% if cuisines %}
+  <div style="margin:.5rem 0 1rem; font-size:.95rem;">
+    <strong>Cuisines:</strong>
+    {% for c in cuisines %}
+      <a href="/recipes/cuisine/{{ c|lower|replace(' ', '%20') }}" style="margin-right:.6rem;">{{ c }}</a>
+    {% endfor %}
+  </div>
+{% endif %}
+
+{% if recipes and recipes|length > 0 %}
+  <div class="grid">
+    {% for r in recipes %}
+      <a href="/recipes/{{ r.slug }}" class="card">
+        <h3>{{ r.title }}</h3>
+        <p>{{ r.time_total }} min • {{ r.servings }} servings • {{ r.cuisine }}</p>
+      </a>
+    {% endfor %}
+  </div>
+{% else %}
+  <p>No recipes found here… try <a href="/recipes">Browse All</a>.</p>
+{% endif %}
+{% endblock %}

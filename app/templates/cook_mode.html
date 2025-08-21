@@ -1,0 +1,63 @@
+{% extends "base.html" %}
+{% block content %}
+{% if not r %}
+  <h1>Recipe not found</h1>
+{% else %}
+<section class="cook">
+  <header class="cook-header">
+    <h1>{{ r.title }}</h1>
+    <div class="cook-meta">{{ r.cuisine }} • {{ r.time_total }} min • Serves {{ r.servings }}</div>
+    <a class="btn" href="/recipes/{{ r.slug }}">Back to recipe</a>
+  </header>
+
+  <div id="stepbox" class="stepbox" data-index="0">
+    <div class="step-num">Step <span id="stepNo">1</span> / {{ r.steps|length }}</div>
+    <div class="step-text" id="stepText">{{ r.steps[0] }}</div>
+  </div>
+
+  <div class="cook-controls">
+    <button class="btn" onclick="prevStep()">← Back</button>
+    <button class="btn" onclick="nextStep()">Next →</button>
+  </div>
+
+  <div class="timer">
+    <div><strong>Timer</strong> <span id="timerLabel">00:00</span></div>
+    <div class="timer-controls">
+      <input id="timerMinutes" type="number" min="0" placeholder="min" style="width:80px;">
+      <input id="timerSeconds" type="number" min="0" max="59" placeholder="sec" style="width:80px;">
+      <button class="btn" onclick="startTimer()">Start</button>
+      <button class="btn" onclick="pauseTimer()">Pause</button>
+      <button class="btn" onclick="resetTimer()">Reset</button>
+    </div>
+  </div>
+</section>
+
+<script>
+const steps = {{ r.steps | tojson }};
+let idx = 0, t=null, remaining=0, running=false;
+
+function render(){
+  document.getElementById('stepNo').textContent = (idx+1);
+  document.getElementById('stepText').textContent = steps[idx];
+}
+
+function nextStep(){ if(idx < steps.length-1){ idx++; render(); } }
+function prevStep(){ if(idx > 0){ idx--; render(); } }
+
+function fmt(s){ const m = Math.floor(s/60).toString().padStart(2,'0'); const ss=(s%60).toString().padStart(2,'0'); return `${m}:${ss}`; }
+function tick(){ if(remaining<=0){ resetTimer(); alert('Time!'); return; } remaining--; document.getElementById('timerLabel').textContent = fmt(remaining); t = setTimeout(tick,1000); }
+function startTimer(){
+  if(!running){
+    let m = parseInt(document.getElementById('timerMinutes').value||'0');
+    let s = parseInt(document.getElementById('timerSeconds').value||'0');
+    if(remaining===0){ remaining = m*60 + s; }
+    if(remaining>0){ running=true; tick(); }
+  }
+}
+function pauseTimer(){ if(running){ running=false; clearTimeout(t); } }
+function resetTimer(){ running=false; clearTimeout(t); remaining=0; document.getElementById('timerLabel').textContent='00:00'; }
+document.addEventListener('keydown', (e)=>{ if(e.key==='ArrowRight') nextStep(); if(e.key==='ArrowLeft') prevStep(); });
+render();
+</script>
+{% endif %}
+{% endblock %}

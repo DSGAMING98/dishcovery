@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block content %}
+<article class="recipe">
+  <h1>{{ r.title }}</h1>
+  <p>{{ r.cuisine }} • {{ r.time_total }} min • Serves {{ r.servings }}</p>
+
+  <div class="actions">
+    <a class="btn" href="/recipes/{{ r.slug }}/cook">Cook Mode</a>
+    <button class="btn" onclick="copyIngredients()">Copy Ingredients</button>
+    <button class="btn" onclick="window.print()">Print</button>
+  </div>
+
+  <h2>Ingredients</h2>
+  <ul id="ingredients-list">
+    {% for i in r.ingredients %}<li>{{ i }}</li>{% endfor %}
+  </ul>
+
+  <h2>Steps</h2>
+  <ol id="steps-list">
+    {% for s in r.steps %}<li>{{ s }}</li>{% endfor %}
+  </ol>
+</article>
+<script>
+function copyIngredients(){
+  const list = Array.from(document.querySelectorAll('#ingredients-list li')).map(li => '• ' + li.textContent).join('\n');
+  navigator.clipboard.writeText(list).then(()=>alert('Ingredients copied ✅'));
+}
+</script>
+{% endblock %}

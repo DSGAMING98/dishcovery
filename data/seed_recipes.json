@@ -1,0 +1,802 @@
+[
+  {
+    "slug": "chicken-biryani",
+    "title": "Chicken Biryani",
+    "cuisine": "Indian",
+    "time_total": 60,
+    "servings": 4,
+    "ingredients": [
+      "2 cups basmati rice",
+      "500g chicken pieces",
+      "2 onions (sliced)",
+      "2 tomatoes (chopped)",
+      "200g yogurt",
+      "2 tbsp ginger-garlic paste",
+      "2 tsp chili powder",
+      "1 tsp turmeric",
+      "2 tsp garam masala",
+      "1 tbsp whole spices (cardamom, cloves, cinnamon)",
+      "Fresh coriander + mint",
+      "2 tbsp oil or ghee",
+      "Salt"
+    ],
+    "steps": [
+      "Soak rice 30 min. Marinate chicken with yogurt, ginger-garlic, chili, turmeric, salt 30 min; fry onions golden (reserve half). Bloom whole spices in oil.",
+      "Add chicken + tomatoes to pot; cook till oil separates. Parboil rice 70% with salt; drain.",
+      "Layer chicken → rice → fried onions → mint/coriander; sprinkle a splash of water/ghee; seal and cook on low 20 min (dum). Rest 5 min; fluff."
+    ]
+  },
+  {
+    "slug": "butter-chicken",
+    "title": "Butter Chicken",
+    "cuisine": "Indian",
+    "time_total": 60,
+    "servings": 4,
+    "ingredients": [
+      "500g boneless chicken",
+      "200g yogurt",
+      "2 tbsp ginger-garlic paste",
+      "1 tsp turmeric",
+      "2 tsp chili powder",
+      "2 tsp garam masala",
+      "2 onions (finely chopped)",
+      "3 tomatoes (pureed)",
+      "100ml cream",
+      "1 tbsp kasuri methi",
+      "2 tbsp butter + 2 tbsp oil",
+      "Salt"
+    ],
+    "steps": [
+      "Marinate chicken (yogurt, ginger-garlic, turmeric, chili, salt) 30 min; sear in oil+butter till lightly charred; remove.",
+      "Sauté onions golden; add tomato puree; cook till thick and glossy. Stir in chili, garam masala, salt.",
+      "Return chicken; simmer 10–15 min. Finish with cream + kasuri methi + a knob of butter; rest 2 min."
+    ]
+  },
+  {
+    "slug": "chole-bhature",
+    "title": "Chole Bhature",
+    "cuisine": "Indian",
+    "time_total": 90,
+    "servings": 4,
+    "ingredients": [
+      "2 cups chickpeas (soaked overnight)",
+      "2 onions (chopped)",
+      "2 tomatoes (pureed)",
+      "2 tbsp ginger-garlic paste",
+      "2 tsp chole masala",
+      "1 tsp turmeric",
+      "2 tsp chili powder",
+      "2 green chilies (slit)",
+      "3 cups wheat flour",
+      "2 tbsp semolina",
+      "2 tbsp yogurt",
+      "Oil for frying",
+      "Salt"
+    ],
+    "steps": [
+      "Pressure-cook chickpeas till soft (reserve liquor). For masala, sauté onions golden; add ginger-garlic; add tomato puree + turmeric + chili + chole masala; cook till oil splits.",
+      "Add chickpeas + liquor; simmer 20 min to thick, glossy gravy; finish with green chilies and salt.",
+      "Bhature: knead flour + semolina + yogurt + salt with water; rest 2 hrs. Roll discs; deep-fry puffed and golden."
+    ]
+  },
+  {
+    "slug": "rogan-josh",
+    "title": "Rogan Josh",
+    "cuisine": "Indian",
+    "time_total": 90,
+    "servings": 4,
+    "ingredients": [
+      "500g lamb/goat (bone-in)",
+      "2 onions (sliced)",
+      "3 tbsp yogurt",
+      "2 tbsp ginger-garlic paste",
+      "2 tsp Kashmiri chili powder",
+      "1 tsp turmeric",
+      "2 tsp fennel powder",
+      "1 tsp garam masala",
+      "2 black cardamom",
+      "3–4 cloves",
+      "1 cinnamon stick",
+      "2 tbsp ghee",
+      "Salt"
+    ],
+    "steps": [
+      "Heat ghee; bloom cardamom, cloves, cinnamon; brown onions. Fry ginger-garlic 1 min.",
+      "Sear meat well; add chili, turmeric, fennel, salt; stir. Lower heat, whisk in yogurt gradually.",
+      "Add ~1 cup water; cover, simmer 45–60 min till tender. Finish with garam masala; rest 5 min."
+    ]
+  },
+  {
+    "slug": "rajma-chawal",
+    "title": "Rajma Chawal",
+    "cuisine": "Indian",
+    "time_total": 75,
+    "servings": 4,
+    "ingredients": [
+      "2 cups kidney beans (soaked overnight)",
+      "2 onions (chopped)",
+      "3 tomatoes (pureed)",
+      "2 tbsp ginger-garlic paste",
+      "2 green chilies",
+      "1 tsp turmeric",
+      "2 tsp chili powder",
+      "2 tsp cumin powder",
+      "2 tsp garam masala",
+      "2 cups basmati rice",
+      "2 tbsp oil",
+      "Salt"
+    ],
+    "steps": [
+      "Pressure-cook rajma till creamy-soft. Sauté onions golden; add ginger-garlic + chilies; 1 min.",
+      "Add tomato puree + turmeric + chili + cumin + salt; cook till oil splits; add rajma + cooking liquor; simmer 25 min.",
+      "Stir in garam masala; simmer 5 min. Cook basmati; serve rajma over rice."
+    ]
+  },
+  {
+    "slug": "nihari",
+    "title": "Nihari",
+    "cuisine": "Indian",
+    "time_total": 240,
+    "servings": 6,
+    "ingredients": [
+      "1 kg beef/lamb shank",
+      "2 onions (sliced)",
+      "3 tbsp ginger-garlic paste",
+      "3 tbsp wheat flour",
+      "2 tsp turmeric",
+      "2 tsp chili powder",
+      "2 tsp coriander powder",
+      "1 tsp garam masala",
+      "3–4 green chilies",
+      "2 tbsp ghee",
+      "Salt",
+      "Coriander + lemon"
+    ],
+    "steps": [
+      "In ghee, brown onions; fry ginger-garlic. Add meat; sear hard.",
+      "Add turmeric, chili, coriander, salt; cover with 6–7 cups water; slow-cook 3–4 hrs (or pressure 1–2 hrs).",
+      "Whisk flour in water; stir in to thicken; simmer 20 min. Finish with garam masala + chilies + coriander; serve with lemon and naan."
+    ]
+  },
+  {
+    "slug": "aloo-paratha",
+    "title": "Aloo Paratha",
+    "cuisine": "Indian",
+    "time_total": 50,
+    "servings": 4,
+    "ingredients": [
+      "2 cups whole wheat flour",
+      "3 potatoes (boiled, mashed)",
+      "1 small onion (finely chopped)",
+      "2 green chilies (finely chopped)",
+      "1 tsp ginger (grated)",
+      "1 tsp cumin powder",
+      "1 tsp garam masala",
+      "2 tbsp coriander",
+      "Ghee/oil",
+      "Salt"
+    ],
+    "steps": [
+      "Knead soft dough (flour, salt, water); rest 20 min. Mix filling: potatoes, onion, chilies, ginger, cumin, garam masala, coriander, salt.",
+      "Stuff dough ball with filling; rest 5 min; roll gently to 6–7 inch.",
+      "Roast on hot tawa with ghee/oil till golden spots both sides; serve with butter, curd, pickle."
+    ]
+  },
+  {
+    "slug": "masala-dosa",
+    "title": "Masala Dosa",
+    "cuisine": "Indian",
+    "time_total": 90,
+    "servings": 4,
+    "ingredients": [
+      "4 cups dosa batter (fermented)",
+      "Oil/ghee",
+      "4 potatoes (boiled, cubed)",
+      "1 onion (sliced)",
+      "1 green chili (slit)",
+      "1 tsp mustard seeds",
+      "1 tsp urad dal",
+      "8–10 curry leaves",
+      "1/2 tsp turmeric",
+      "1 tbsp lemon juice",
+      "Salt",
+      "Coriander"
+    ],
+    "steps": [
+      "Masala: temper mustard, urad, curry leaves; sauté onion + chili; add turmeric + salt; toss potatoes; mash lightly; finish lemon + coriander.",
+      "Heat tawa; spread thin dosa; drizzle oil; cook till crisp.",
+      "Place masala, fold, serve with coconut chutney + sambar."
+    ]
+  },
+  {
+    "slug": "idli-sambar",
+    "title": "Idli & Sambar",
+    "cuisine": "Indian",
+    "time_total": 90,
+    "servings": 4,
+    "ingredients": [
+      "4 cups idli batter",
+      "Oil (grease moulds)",
+      "3/4 cup toor dal",
+      "Onion + tomato",
+      "Carrot + drumstick",
+      "1 tbsp sambar powder",
+      "1/2 tsp turmeric",
+      "1 tsp tamarind paste",
+      "Mustard + urad + curry leaves + red chilies",
+      "Oil",
+      "Salt",
+      "Coriander"
+    ],
+    "steps": [
+      "Steam idlis 10–12 min; rest 2 min; unmould. Pressure-cook dal with turmeric; whisk smooth.",
+      "Temper oil with mustard, urad, curry leaves, red chilies; sauté onion; add tomato + veg; add dal + water; simmer.",
+      "Add sambar powder + salt; simmer till veg tender; finish tamarind; garnish coriander; serve with idli."
+    ]
+  },
+  {
+    "slug": "hyderabadi-biryani",
+    "title": "Hyderabadi Biryani",
+    "cuisine": "Indian",
+    "time_total": 90,
+    "servings": 6,
+    "ingredients": [
+      "3 cups basmati rice",
+      "800g chicken/mutton",
+      "250g yogurt",
+      "2 tbsp ginger-garlic",
+      "2 onions (fried)",
+      "2 green chilies",
+      "1 tsp turmeric",
+      "2 tsp chili powder",
+      "2 tsp biryani masala",
+      "Mint + coriander",
+      "Saffron milk (opt)",
+      "Ghee/oil",
+      "Salt"
+    ],
+    "steps": [
+      "Parboil salted rice 70% with whole spices; drain. Marinate meat (yogurt, ginger-garlic, spices, lemon, half fried onions, herbs) 45–60 min.",
+      "Layer raw marinated meat then rice; top with remaining fried onions, herbs, saffron milk, ghee.",
+      "Seal and dum 30–40 min low heat till meat done and rice fluffy; rest 10 min; fluff."
+    ]
+  },
+  {
+    "slug": "kerala-fish-curry",
+    "title": "Kerala Fish Curry",
+    "cuisine": "Indian",
+    "time_total": 45,
+    "servings": 4,
+    "ingredients": [
+      "600g firm fish",
+      "1 onion (sliced)",
+      "2 tomatoes (or 1 cup coconut milk)",
+      "2 tbsp ginger-garlic",
+      "1 tbsp Kashmiri chili powder",
+      "1 tsp turmeric",
+      "1 tsp fenugreek",
+      "Curry leaves + green chilies",
+      "2 tbsp coconut oil",
+      "Tamarind/kodampuli",
+      "Salt"
+    ],
+    "steps": [
+      "Heat coconut oil; crackle fenugreek; add curry leaves + chilies; sauté onion soft; fry ginger-garlic briefly.",
+      "Add chili + turmeric; splash water; add tomatoes (or coconut milk) + tamarind + salt; simmer 5–7 min.",
+      "Slide fish; cover, cook low 8–10 min till just done; rest 5 min; serve with rice/appam."
+    ]
+  },
+  {
+    "slug": "appam-stew",
+    "title": "Appam with Stew",
+    "cuisine": "Indian",
+    "time_total": 90,
+    "servings": 4,
+    "ingredients": [
+      "3 cups appam batter",
+      "200g chicken or mixed veg",
+      "1 onion (sliced)",
+      "Carrot + potato (cubes)",
+      "2 green chilies",
+      "Ginger (juliennes)",
+      "Whole spices",
+      "1 cup coconut milk (thin + thick)",
+      "2 tbsp coconut oil",
+      "Curry leaves",
+      "Salt"
+    ],
+    "steps": [
+      "Stew: in coconut oil, bloom whole spices + curry leaves + ginger + chilies; sauté onion; add veg/chicken; toss.",
+      "Pour thin coconut milk; simmer till tender; finish with thick coconut milk + salt (do not boil).",
+      "Appam: swirl batter in appam pan; cover to set; edges crisp, center soft; serve with stew."
+    ]
+  },
+  {
+    "slug": "chettinad-chicken",
+    "title": "Chettinad Chicken",
+    "cuisine": "Indian",
+    "time_total": 70,
+    "servings": 4,
+    "ingredients": [
+      "500g chicken",
+      "2 onions (sliced)",
+      "2 tomatoes (chopped)",
+      "2 tbsp ginger-garlic",
+      "2 tbsp Chettinad masala",
+      "1 tsp turmeric",
+      "2 tsp chili powder",
+      "Curry leaves",
+      "2 tbsp oil",
+      "Salt"
+    ],
+    "steps": [
+      "Sauté onions golden; add ginger-garlic; add tomatoes; cook mushy.",
+      "Add turmeric, chili, Chettinad masala; stir till fragrant.",
+      "Add chicken; sear; splash water; cover and simmer 25–30 min; finish with curry leaves and salt."
+    ]
+  },
+  {
+    "slug": "pongal",
+    "title": "Pongal",
+    "cuisine": "Indian",
+    "time_total": 45,
+    "servings": 4,
+    "ingredients": [
+      "1 cup rice",
+      "1/2 cup moong dal",
+      "1 tsp turmeric",
+      "1 tsp black pepper",
+      "1 tsp cumin",
+      "Ginger (grated)",
+      "Curry leaves",
+      "2 tbsp ghee",
+      "10 cashews",
+      "Salt"
+    ],
+    "steps": [
+      "Lightly roast moong dal. Pressure-cook rice + dal with turmeric, salt, 4 cups water till soft and porridge-like.",
+      "In ghee, fry cashews golden; remove. In same ghee, splutter cumin + crushed pepper + curry leaves + ginger.",
+      "Fold tempering into pongal; top with cashews; serve hot."
+    ]
+  },
+  {
+    "slug": "litti-chokha",
+    "title": "Litti Chokha",
+    "cuisine": "Indian",
+    "time_total": 90,
+    "servings": 4,
+    "ingredients": [
+      "2 cups wheat flour",
+      "1/2 cup sattu",
+      "Onion + garlic + green chilies",
+      "1 tsp carom seeds",
+      "2 tbsp mustard oil",
+      "4 brinjals",
+      "4 tomatoes",
+      "4 boiled potatoes",
+      "Ghee",
+      "Coriander",
+      "Salt"
+    ],
+    "steps": [
+      "Dough: knead flour + salt + water (stiff). Filling: mix sattu, onion, garlic, chilies, carom, mustard oil, salt (few drops water).",
+      "Stuff litti balls; bake/grill/air-fry till cooked through (or deep-fry); brush with ghee.",
+      "Chokha: roast brinjal + tomato; peel; mash with potatoes, onion, mustard oil, coriander, salt. Serve with hot litti."
+    ]
+  },
+  {
+    "slug": "macher-jhol",
+    "title": "Macher Jhol (Fish Curry)",
+    "cuisine": "Indian",
+    "time_total": 45,
+    "servings": 4,
+    "ingredients": [
+      "600g rohu/katla",
+      "2 potatoes (quartered)",
+      "1 tomato (chopped)",
+      "1 tsp panch phoron or cumin",
+      "1 bay leaf",
+      "1 tsp turmeric",
+      "1 tsp Kashmiri chili powder",
+      "1 tsp ginger paste",
+      "2 green chilies",
+      "Mustard oil",
+      "Salt",
+      "Coriander"
+    ],
+    "steps": [
+      "Marinate fish with salt + turmeric; shallow-fry in mustard oil; keep aside.",
+      "In same oil, temper panch phoron + bay; sauté potatoes; add ginger + tomato; cook soft; add turmeric + chili + water.",
+      "Simmer potatoes till tender; add fried fish; simmer 5–7 min; finish with green chilies + coriander."
+    ]
+  },
+  {
+    "slug": "pakhala-bhata",
+    "title": "Pakhala Bhata",
+    "cuisine": "Indian",
+    "time_total": 480,
+    "servings": 4,
+    "ingredients": [
+      "2 cups cooked rice (preferably leftover)",
+      "3–4 cups water or thin buttermilk",
+      "1/2 cup curd (optional)",
+      "Green chilies + ginger",
+      "Salt",
+      "Tempering: mustard seeds, dried red chilies, curry leaves, mustard oil (opt)",
+      "Roasted cumin powder"
+    ],
+    "steps": [
+      "Cool cooked rice completely; loosen in a pot. Add water/buttermilk + curd (opt) + salt + chilies + ginger; stir.",
+      "Cover and rest/ferment 8–12 hrs (overnight) at room temp.",
+      "Optional: temper mustard oil with mustard seeds, red chilies, curry leaves; pour over. Sprinkle roasted cumin; serve chilled with sides."
+    ]
+  },
+  {
+    "slug": "pav-bhaji",
+    "title": "Pav Bhaji",
+    "cuisine": "Indian",
+    "time_total": 45,
+    "servings": 4,
+    "ingredients": [
+      "8 pav buns",
+      "3 tbsp butter",
+      "2 onions",
+      "2 tomatoes",
+      "1 capsicum",
+      "2 potatoes (boiled)",
+      "1/2 cup peas",
+      "2–3 tbsp pav bhaji masala",
+      "1 tsp chili powder",
+      "1/2 tsp turmeric",
+      "Lemon",
+      "Coriander",
+      "Salt"
+    ],
+    "steps": [
+      "On tawa, melt butter; sauté onions soft; add capsicum; add tomatoes; cook mushy.",
+      "Add masalas + salt; mash in potatoes + peas; add splashes of water; cook till smooth, glossy, deep red bhaji.",
+      "Toast pav with butter; serve bhaji topped with butter, onion, coriander, lemon."
+    ]
+  },
+  {
+    "slug": "vada-pav",
+    "title": "Vada Pav",
+    "cuisine": "Indian",
+    "time_total": 40,
+    "servings": 4,
+    "ingredients": [
+      "6 pav buns",
+      "4 potatoes (boiled)",
+      "Mustard seeds + curry leaves",
+      "Turmeric + green chilies + ginger",
+      "1 cup besan + pinch baking soda",
+      "Dry garlic chutney",
+      "Oil",
+      "Salt"
+    ],
+    "steps": [
+      "Tempering: mustard + curry leaves + chilies + ginger; mix into mashed potatoes with turmeric + salt; cool; shape balls.",
+      "Make thick besan batter (salt, pinch soda). Dip potato balls; deep-fry till golden.",
+      "Slit pav; smear dry garlic chutney; tuck in vada; press; serve with fried green chili."
+    ]
+  },
+  {
+    "slug": "misal-pav",
+    "title": "Misal Pav",
+    "cuisine": "Indian",
+    "time_total": 60,
+    "servings": 4,
+    "ingredients": [
+      "2 cups sprouted moth/matki",
+      "1 onion",
+      "1 tomato",
+      "2 tbsp misal/goda masala",
+      "1 tsp chili powder",
+      "1/2 tsp turmeric",
+      "1 tsp mustard",
+      "Curry leaves",
+      "Farsan",
+      "Lemon + onion + coriander",
+      "Oil",
+      "Salt",
+      "Pav"
+    ],
+    "steps": [
+      "Boil sprouts till tender. Make tarri: mustard + curry leaves tempering; sauté onion; add tomato; cook mushy.",
+      "Add turmeric + chili + misal masala + salt; add water; simmer 10–15 min to spicy gravy.",
+      "Assemble bowls: sprouts + tarri + farsan + onion + coriander + lemon. Serve with toasted pav."
+    ]
+  },
+  {
+    "slug": "dhokla",
+    "title": "Dhokla",
+    "cuisine": "Indian",
+    "time_total": 35,
+    "servings": 4,
+    "ingredients": [
+      "1 cup besan",
+      "1/2 cup yogurt",
+      "Water (batter)",
+      "1/2 tsp turmeric",
+      "1 tsp ginger-chili paste",
+      "1 tsp sugar",
+      "Salt",
+      "1 tsp Eno",
+      "Tempering: oil, mustard, sesame, curry leaves, green chilies",
+      "Syrup: 1/2 cup water, 1 tsp sugar, 1 tsp lemon"
+    ],
+    "steps": [
+      "Whisk besan + yogurt + water to pourable batter; add turmeric, ginger-chili, sugar, salt; rest 10 min.",
+      "Grease plate; stir in Eno; pour; steam 12–15 min till set. Boil syrup (water + sugar + lemon).",
+      "Temper mustard, sesame, curry leaves, chilies in oil; pour over cut dhokla; drizzle syrup; rest 2 min."
+    ]
+  },
+  {
+    "slug": "thepla",
+    "title": "Thepla",
+    "cuisine": "Indian",
+    "time_total": 40,
+    "servings": 4,
+    "ingredients": [
+      "2 cups whole wheat flour",
+      "1/2 cup besan (opt)",
+      "1 cup chopped methi",
+      "1/2 cup yogurt",
+      "1/2 tsp turmeric",
+      "1 tsp chili powder",
+      "1 tsp jeera-dhaniya powder",
+      "1 tbsp oil",
+      "Salt",
+      "Water",
+      "Oil/ghee"
+    ],
+    "steps": [
+      "Mix flours, methi, yogurt, spices, salt, oil; add water to knead soft dough; rest 15 min.",
+      "Divide; roll thin discs dusting flour.",
+      "Roast on hot tawa with light oil/ghee till brown spots both sides; serve with pickle/curd."
+    ]
+  },
+  {
+    "slug": "goan-fish-curry",
+    "title": "Goan Fish Curry",
+    "cuisine": "Indian",
+    "time_total": 45,
+    "servings": 4,
+    "ingredients": [
+      "600g firm fish",
+      "Masala: grated coconut, Kashmiri chilies, coriander, cumin, garlic, turmeric, tamarind/kokum",
+      "1 onion",
+      "2 tbsp coconut oil",
+      "Salt"
+    ],
+    "steps": [
+      "Blend coconut + chilies + spices + tamarind to smooth paste with water.",
+      "Sauté onion in coconut oil; add masala + water to curry consistency; simmer 5–7 min; salt.",
+      "Add fish; simmer gently 8–10 min till cooked; rest 5 min; serve with rice."
+    ]
+  },
+  {
+    "slug": "laal-maas",
+    "title": "Laal Maas",
+    "cuisine": "Indian",
+    "time_total": 120,
+    "servings": 4,
+    "ingredients": [
+      "700g mutton (bone-in)",
+      "Red chili paste (10–12 dried chilies soaked)",
+      "1 cup yogurt",
+      "2 tbsp ghee/mustard oil",
+      "2 onions (sliced)",
+      "2 tbsp garlic paste",
+      "1 tsp turmeric",
+      "Bay, cloves, black cardamom",
+      "Salt"
+    ],
+    "steps": [
+      "Marinate mutton with yogurt, chili paste, turmeric, salt 30 min.",
+      "Heat ghee/oil; bloom bay, cloves, black cardamom; brown onions; add garlic; add marinated mutton; sear.",
+      "Add water; cover and slow-cook till tender (or pressure). Adjust salt; finish with ghee; rest 10 min."
+    ]
+  },
+  {
+    "slug": "dal-baati-churma",
+    "title": "Dal Baati Churma",
+    "cuisine": "Indian",
+    "time_total": 120,
+    "servings": 6,
+    "ingredients": [
+      "Baati: wheat flour, semolina, ghee, salt, water",
+      "Dal: toor+moong+chana dal, onion, tomato, ginger-garlic, turmeric, chili, cumin, ghee",
+      "Churma: baked baatis, ghee, sugar/jaggery, nuts"
+    ],
+    "steps": [
+      "Baati: knead stiff dough with ghee; shape balls; bake/air-fry till golden and cooked; brush with ghee.",
+      "Dal: pressure-cook mixed dals with turmeric; temper ghee with cumin, ginger-garlic, onion, tomato, chili; add dal; simmer; salt.",
+      "Churma: crush baatis; mix ghee + sugar/jaggery + nuts. Serve: crack baati, pour ghee, ladle dal; finish with churma."
+    ]
+  },
+  {
+    "slug": "poha",
+    "title": "Poha",
+    "cuisine": "Indian",
+    "time_total": 20,
+    "servings": 3,
+    "ingredients": [
+      "2 cups thick poha",
+      "1 onion",
+      "1 small potato (opt)",
+      "1/4 cup peanuts",
+      "1 tsp mustard",
+      "Curry leaves",
+      "2 green chilies",
+      "1/2 tsp turmeric",
+      "1 tsp sugar (opt)",
+      "Lemon",
+      "Coriander",
+      "Oil",
+      "Salt"
+    ],
+    "steps": [
+      "Rinse poha; drain; sprinkle little water + salt + sugar; rest 5 min. Fry peanuts; reserve.",
+      "Temper mustard + curry leaves + chilies; sauté onion (and potato) till soft; add turmeric.",
+      "Toss in poha; heat gently; adjust moisture with sprinkles of water. Off heat: lemon + peanuts + coriander."
+    ]
+  },
+  {
+    "slug": "bhutte-ka-kees",
+    "title": "Bhutte Ka Kees",
+    "cuisine": "Indian",
+    "time_total": 35,
+    "servings": 4,
+    "ingredients": [
+      "4 cups grated sweet corn",
+      "2 tbsp ghee/oil",
+      "1 tsp mustard",
+      "1 tsp cumin",
+      "Pinch hing",
+      "2 green chilies (finely chopped)",
+      "1 tsp ginger (grated)",
+      "1/2 tsp turmeric",
+      "1/2 cup milk",
+      "Lemon juice",
+      "Grated coconut (opt)",
+      "Coriander",
+      "Salt",
+      "Sugar (opt)"
+    ],
+    "steps": [
+      "Heat ghee; splutter mustard + cumin; add hing, chilies, ginger. Add grated corn; sauté 3–4 min.",
+      "Add turmeric, salt, milk (pinch sugar opt); cook, stirring, till thick and glossy.",
+      "Finish lemon, coconut, coriander; serve hot."
+    ]
+  },
+  {
+    "slug": "bamboo-shoot-curry",
+    "title": "Bamboo Shoot Curry",
+    "cuisine": "Indian",
+    "time_total": 45,
+    "servings": 4,
+    "ingredients": [
+      "300g bamboo shoots (sliced, rinsed)",
+      "1 onion (sliced)",
+      "1 tomato (chopped)",
+      "2 potatoes (chunks)",
+      "2 green chilies",
+      "1 tsp ginger-garlic",
+      "1/2 tsp turmeric",
+      "1 tsp chili powder",
+      "1 tsp coriander powder",
+      "1/2 tsp cumin powder",
+      "2 tbsp mustard oil/neutral oil",
+      "Salt",
+      "Coriander"
+    ],
+    "steps": [
+      "Parboil bamboo shoots 5–7 min; drain. Heat oil; sauté onion; add ginger-garlic + chilies.",
+      "Add tomato + dry spices + salt; cook till oil splits.",
+      "Add potatoes + bamboo + 1.5 cups water; simmer till potatoes tender; finish coriander."
+    ]
+  },
+  {
+    "slug": "smoked-pork-bamboo-shoot",
+    "title": "Smoked Pork with Bamboo Shoot",
+    "cuisine": "Indian",
+    "time_total": 90,
+    "servings": 4,
+    "ingredients": [
+      "600g smoked pork/pork belly",
+      "200g bamboo shoots (rinsed)",
+      "1 tbsp ginger-garlic",
+      "6–8 dried red chilies (soaked, ground) or chili paste",
+      "1 tomato (opt)",
+      "Salt",
+      "Water"
+    ],
+    "steps": [
+      "In pot: pork + ginger-garlic + chili paste + salt; cover with water; simmer 45–60 min till tender.",
+      "Add bamboo (and tomato if using); simmer 10–15 min.",
+      "Reduce to glossy gravy; adjust salt; serve with steamed rice."
+    ]
+  },
+  {
+    "slug": "assamese-fish-curry",
+    "title": "Assamese Fish Curry (Masor Tenga)",
+    "cuisine": "Indian",
+    "time_total": 35,
+    "servings": 4,
+    "ingredients": [
+      "600g freshwater fish steaks",
+      "Mustard oil",
+      "1 tomato (or puree)",
+      "Kokum or lemon juice",
+      "1/2 tsp turmeric",
+      "Mustard seeds or panch phoron",
+      "2 green chilies",
+      "Salt",
+      "Coriander"
+    ],
+    "steps": [
+      "Rub fish with salt + turmeric; shallow-fry in mustard oil; remove.",
+      "Temper mustard/panch phoron; add tomato; cook soft; add water (2 cups) + kokum/lemon + salt; simmer.",
+      "Add fish; simmer gently 5–7 min; finish with chilies + coriander."
+    ]
+  },
+  {
+    "slug": "indian-thali",
+    "title": "Indian Thali (Meal Platter)",
+    "cuisine": "Indian",
+    "time_total": 90,
+    "servings": 4,
+    "ingredients": [
+      "Dal tadka (toor dal, turmeric, ghee, cumin, garlic, chilies)",
+      "Dry sabzi (seasonal veg + spices)",
+      "Raita (curd, cucumber, roasted cumin, salt)",
+      "Roti/phulka",
+      "Steamed rice",
+      "Pickle + papad + salad",
+      "Ghee + lemon + coriander"
+    ],
+    "steps": [
+      "Dal: pressure-cook toor dal with turmeric + salt; temper ghee with cumin, garlic, chilies; pour over.",
+      "Dry sabzi: sauté cumin; add veg + spice mix; cook tender and dry. Raita: whisk curd + cucumber + salt + roasted cumin.",
+      "Phulkas: roll and roast; cook rice. Assemble platter with all components; garnish coriander + lemon."
+    ]
+  },
+  {
+    "slug": "prawns-ghee-roast",
+    "title": "Prawns Ghee Roast",
+    "cuisine": "Indian",
+    "time_total": 40,
+    "servings": 4,
+    "ingredients": [
+      "500g prawns (cleaned)",
+      "3 tbsp ghee",
+      "Masala: dried red chilies (Kashmiri), coriander, cumin, pepper, garlic, tamarind, jaggery, salt",
+      "1/2 tsp turmeric",
+      "Curry leaves (opt)"
+    ],
+    "steps": [
+      "Soak chilies; grind with spices, garlic, tamarind, jaggery, salt to thick paste. Toss prawns with turmeric + half masala 10 min.",
+      "Heat ghee; fry remaining masala till it releases ghee.",
+      "Add prawns; cook 3–5 min till just opaque; toss curry leaves; serve hot."
+    ]
+  },
+  {
+    "slug": "ragi-ball",
+    "title": "Ragi Ball (Ragi Mudde)",
+    "cuisine": "South Indian",
+    "time_total": 20,
+    "servings": 3,
+    "ingredients": [
+      "1 cup ragi (finger millet) flour",
+      "2 cups water (adjust as needed)",
+      "1/2 tsp salt",
+      "1 tsp ghee (optional, for finishing)"
+    ],
+    "steps": [
+      "Bring water + salt to a rolling boil. Sprinkle 1 tbsp ragi flour to make a thin slurry (prevents lumps).",
+      "Dump in remaining ragi flour all at once; lower heat and beat vigorously with a flat spoon/paddle till lump-free and thick.",
+      "Cover 3–5 min on low; beat/knead to a smooth glossy mass. Rest 2 min, wet palms, shape balls. Brush ghee. Serve hot with sambar/saaru."
+    ]
+  }
+]

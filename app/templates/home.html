@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="hero">
+  <h1>Cook the world, step by step.</h1>
+  <p>Browse by region. Start with these bangers 👇</p>
+</section>
+
+<h2>North Indian</h2>
+<div class="grid">
+  {% for r in north_recipes %}
+    <a href="/recipes/{{ r.slug }}" class="card">
+      <h3>{{ r.title }}</h3>
+      <p>{{ r.time_total }} min • {{ r.servings }} servings</p>
+    </a>
+  {% endfor %}
+</div>
+<p><a href="/recipes/cuisine/north%20indian">See all North Indian →</a></p>
+
+<h2 style="margin-top:1.5rem;">South Indian</h2>
+<div class="grid">
+  {% for r in south_recipes %}
+    <a href="/recipes/{{ r.slug }}" class="card">
+      <h3>{{ r.title }}</h3>
+      <p>{{ r.time_total }} min • {{ r.servings }} servings</p>
+    </a>
+  {% endfor %}
+</div>
+<p><a href="/recipes/cuisine/south%20indian">See all South Indian →</a></p>
+{% endblock %}

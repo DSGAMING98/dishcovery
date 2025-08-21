@@ -1,0 +1,30 @@
+:root { --bg:#0f0f12; --fg:#fafafa; --muted:#b3b3b3; --card:#17171c; --accent:#60a5fa; }
+* { box-sizing: border-box; }
+body { margin:0; font-family: Inter, system-ui, Arial; background:var(--bg); color:var(--fg); }
+.nav { display:flex; gap:1rem; align-items:center; padding:1rem 1.25rem; border-bottom:1px solid #222; }
+.logo { color:var(--fg); font-weight:700; text-decoration:none; }
+.search { margin-left:auto; display:flex; gap:.5rem; }
+.search input { padding:.6rem .8rem; border-radius:.6rem; border:1px solid #2a2a2f; background:#121217; color:var(--fg); width:280px; }
+.search button { padding:.6rem .9rem; border:0; border-radius:.6rem; background:var(--accent); color:#001; font-weight:600; cursor:pointer; }
+.container { max-width:1100px; margin:0 auto; padding:1.25rem; }
+.hero { padding:2rem 0 1rem; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(240px,1fr)); gap:1rem; }
+.card { display:block; padding:1rem; background:var(--card); border:1px solid #222; border-radius:1rem; text-decoration:none; color:var(--fg); }
+.card h3 { margin:.2rem 0 .3rem; }
+.recipe h1 { margin:.2rem 0 .6rem; }
+.menu { display:flex; gap:1rem; }
+.menu a { color:var(--muted); text-decoration:none; }
+.menu a:hover { color:var(--fg); }
+.actions, .cook-controls, .timer-controls { display:flex; gap:.5rem; flex-wrap:wrap; margin:.5rem 0 1rem; }
+.btn { padding:.55rem .9rem; border:1px solid #2a2a2f; border-radius:.6rem; background:#17171c; color:var(--fg); cursor:pointer; text-decoration:none; }
+.btn:hover { border-color:#3a3a42; }
+.cook-header { display:flex; flex-direction:column; gap:.3rem; margin-bottom:1rem; }
+.stepbox { background:var(--card); border:1px solid #222; border-radius:1rem; padding:1rem; min-height:160px; display:flex; flex-direction:column; gap:.5rem; }
+.step-num { color:var(--muted); font-size:.95rem; }
+.step-text { font-size:1.1rem; line-height:1.6; }
+.timer { border-top:1px solid #222; padding-top:1rem; margin-top:.5rem; }
+@media print {
+  header.nav, .actions, .cook-controls, .timer { display:none !important; }
+  body { background:white; color:black; }
+  .card { border:1px solid #ccc; }
+}

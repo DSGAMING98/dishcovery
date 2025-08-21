@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Dishcovery</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+  <header class="nav">
+    <a class="logo" href="/">Dishcovery</a>
+    <nav class="menu">
+      <a href="/recipes">Browse</a>
+      <a href="/recipes/cuisine/north%20indian">North</a>
+      <a href="/recipes/cuisine/south%20indian">South</a>
+    </nav>
+    <form action="/search" method="get" class="search">
+      <input type="text" name="q" placeholder="Search dishes, ingredients…" required>
+      <button>Search</button>
+    </form>
+  </header>
+
+  <main class="container">
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer style="margin:40px 0 20px; font-size:14px; color:#8b8b8b; text-align:center;">
+    © 2025 Developed by Prajwal
+  </footer>
+
+  <script src="/static/js/script.js"></script>
+</body>
+</html>
